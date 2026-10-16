@@ -1,9 +1,13 @@
 {
  "items": {
   "2026-10-16_most-valuable-ai-companies-2012-2026": {
-   "status": "publishing",
+   "status": "published",
    "started": "2026-10-16T18:09:07+00:00",
-   "container": "18148760698506954"
+   "container": "18148760698506954",
+   "media_id": "17912432088501848",
+   "link": "https://www.instagram.com/reel/DekJKKDFX1P/",
+   "published_at": "2026-10-16T18:09:54+00:00",
+   "error": ""
   },
   "2026-10-16_most-valuable-car-makers-2001-2026": {
    "status": "queued"
