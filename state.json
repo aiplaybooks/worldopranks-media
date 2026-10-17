@@ -12,9 +12,13 @@
    "fb_comment_id": "2354736751956776_1657718895726638"
   },
   "2026-10-16_most-valuable-car-makers-2001-2026": {
-   "status": "publishing",
+   "status": "published",
    "started": "2026-10-17T18:02:34+00:00",
-   "container": "18149059783506954"
+   "container": "18149059783506954",
+   "media_id": "18119933755969849",
+   "link": "https://www.instagram.com/reel/DemtNO5jGan/",
+   "published_at": "2026-10-17T18:03:35+00:00",
+   "error": ""
   },
   "2026-10-16_most-valuable-banks-2000-2026": {
    "status": "queued"
