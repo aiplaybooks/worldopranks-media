@@ -56,9 +56,13 @@
    "fb_comment_id": "1142800988418057_2180794445802897"
   },
   "2026-10-16_most-subscribed-youtube-channels-2015-2026": {
-   "status": "publishing",
+   "status": "published",
    "started": "2026-10-19T18:10:04+00:00",
-   "container": "18149765725506954"
+   "container": "18149765725506954",
+   "media_id": "17995142838109836",
+   "link": "https://www.instagram.com/reel/Der3p7Ujfgy/",
+   "published_at": "2026-10-19T18:11:23+00:00",
+   "error": ""
   },
   "2026-10-16_1000-dollars-invested-in-2013": {
    "status": "queued"
