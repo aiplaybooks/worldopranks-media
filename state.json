@@ -67,9 +67,13 @@
    "fb_comment_id": "1434474631970285_1358128032876231"
   },
   "2026-10-16_1000-dollars-invested-in-2013": {
-   "status": "publishing",
+   "status": "published",
    "started": "2026-10-21T18:18:01+00:00",
-   "container": "18150423031506954"
+   "container": "18150423031506954",
+   "media_id": "18103345340565253",
+   "link": "https://www.instagram.com/reel/DexCKVeggsQ/",
+   "published_at": "2026-10-21T18:19:12+00:00",
+   "error": ""
   },
   "2026-10-17_grand-slam-titles-race-1990-2026": {
    "status": "queued"
